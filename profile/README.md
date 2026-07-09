@@ -18,12 +18,12 @@
 
 # Do Not Disturb the Studio
 
-**We build inspectable tools and publish the process.**
+**Story-first creative, backed by systems that hold.**
 
 </div>
 
-A solo creative studio: production systems, story-first media, and the
-engineering underneath them — worked in the open, one record at a time.
+A solo creative studio: brand, marketing, and story-first media — with the
+systems to back them, one record at a time.
 
 ```
   ##########+###########          ##################
