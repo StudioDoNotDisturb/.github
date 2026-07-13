@@ -18,8 +18,6 @@
 
 # Do Not Disturb the Studio
 
-**Story-first creative, backed by systems that hold.**
-
 </div>
 
 A solo creative studio: brand, marketing, and story-first media — with the
