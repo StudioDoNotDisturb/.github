@@ -1,21 +1,5 @@
 <div align="center">
 
-```
-       ########
-     ##        ##
-    #     00     #
-    #     00     #
-     ##        ##
-   ################
-   #              #
-   #   ========   #
-   #              #
-   #   =====      #
-   #              #
-   #              #
-   ################
-```
-
 # Do Not Disturb the Studio
 
 **Brand systems and story-driven video.**
@@ -50,11 +34,3 @@ See it run: [youtu.be/dSPUDWEydDg](https://youtu.be/dSPUDWEydDg)
 
 The newsletter is the studio's working log: what shipped, what broke, what's
 next — written by the person who did the work.
-
-```
-+================================================+
-|                                                |
-|        T H E   R E C O R D   R E M A I N S     |
-|                                                |
-+================================================+
-```
