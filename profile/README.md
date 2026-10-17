@@ -30,6 +30,7 @@ See it run: [youtu.be/dSPUDWEydDg](https://youtu.be/dSPUDWEydDg)
 [Newsletter](https://studiodonotdisturb.substack.com) ·
 [Instagram](https://www.instagram.com/donotdisturbthestudio) ·
 [X](https://x.com/donotdisturbtv) ·
+[LinkedIn](https://www.linkedin.com/company/studiodonotdisturb) ·
 [hello@donotdisturb.tv](mailto:hello@donotdisturb.tv)
 
 The newsletter is the studio's working log: what shipped, what broke, what's
