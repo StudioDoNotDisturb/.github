@@ -14,8 +14,9 @@ systems.
 
 ### [mdr-kernel](https://github.com/StudioDoNotDisturb/mdr-kernel)
 
-A shared-memory operating environment for AI coding agents. It keeps decisions
-and handoffs in Git so each session can start from the same record.
+A shared-memory operating environment for AI coding agents. The repo is the
+memory. It keeps decisions and handoffs in Git so each session can start from
+the same record.
 
 [Interactive README](https://donotdisturb.tv/mdr-kernel) ·
 [See it run](https://youtu.be/dSPUDWEydDg)
