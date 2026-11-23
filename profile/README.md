@@ -10,18 +10,24 @@ Do Not Disturb the Studio is an independent, one-person creative studio in
 Oregon. It creates brand, marketing, and story-first film, backed by real
 systems.
 
-## First release
+## Software releases
 
-[mdr-kernel](https://github.com/StudioDoNotDisturb/mdr-kernel) — a
-shared-memory operating environment for AI coding agents. Agents are powerful
-in a single session and fragile across sessions — they forget decisions, trust
-stale context, collide in shared files, and repeat the same mistake.
-mdr-kernel makes the git repo their memory: every agent wakes severed from
-private context and starts from the same record.
+### [mdr-kernel](https://github.com/StudioDoNotDisturb/mdr-kernel)
 
-Interactive readme: [donotdisturb.tv/mdr-kernel](https://donotdisturb.tv/mdr-kernel)
-·
-See it run: [youtu.be/dSPUDWEydDg](https://youtu.be/dSPUDWEydDg)
+A shared-memory operating environment for AI coding agents. It keeps decisions
+and handoffs in Git so each session can start from the same record.
+
+[Interactive README](https://donotdisturb.tv/mdr-kernel) ·
+[See it run](https://youtu.be/dSPUDWEydDg)
+
+### [Intake Agent](https://github.com/StudioDoNotDisturb/intake-agent)
+
+A local tool for the work between a camera card and an edit. Inventory or
+transcribe selected footage on your machine. Review the filing plan before
+approving any copies or moves.
+
+[Try the demo](https://donotdisturb.tv/intake-agent/#demo) ·
+[Get the release](https://github.com/StudioDoNotDisturb/intake-agent/releases/tag/v0.2.0)
 
 ## Find the studio
 
